@@ -82,6 +82,9 @@ Current applicatons include aerodynamic modeling and shape optimization, microwa
 We are grateful for the support from the following organizations:
 <div class="row">
   <div class="column">
+    <img src="/img/purduelogo.png" alt="Purdue" style="width:100%">
+  </div>
+  <div class="column">
     <img src="/img/NSF_Logo.png" alt="NSF" style="width:100%" >
   </div>
   <div class="column">
