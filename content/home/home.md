@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Predictive Science Lab"
-subtitle = "Creating artificial intelligence (AI) technologies that accelerate the pace of engineering innovation."
+title = "Computational Design Lab"
+subtitle = ""
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -33,17 +33,5 @@ subtitle = "Creating artificial intelligence (AI) technologies that accelerate t
 
 +++
 
-We are an interdisciplinary research group at the [School of Mechanical Engineering](http://www.purdue.edu/me),
-[Purdue University](http://www.purdue.edu) led by [Prof. Ilias Bilionis](/authors/ebilionis).
-
-**MISSION**<br>
-Our mission is to create artificial intelligence (AI) technologies that accelerate the pace of engineering innovation.
-
-**APPLICATIONS**<br>
-Our applications span the range between purely technical (e.g., electric machines, high-performance materials) and sociotechnical (e.g., smart buildings, extra-terrestrial habitats).
-
-**PHILOSOPHY**<br>
-Our research develops communication channels between theories and data. The communication protocol is based on probability theory (thought of as an extension of logic under uncertainty) with an additional layer of causality (expressed through physical laws and graphical models) and is realized using modern machine learning techniques based on deep neural networks.
-
-**FUNDING**<br>
-We are extremely grateful for the support of our academic, government, and private sponsors:<br>
+Welcome to the Computational Design Laboratory at the [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE),
+[Purdue University](https://www.purdue.edu) led by [Dr. Leifur Thor Leifsson](/authors/leifur). Our research focuses on advancing fundamental computational methods for optimal design and uncertainty quantification of aerospace systems.
