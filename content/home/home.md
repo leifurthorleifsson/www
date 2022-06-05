@@ -1,9 +1,9 @@
----
++++
 # Hero widget.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Predictive Science Lab"
 subtitle = "Creating artificial intelligence (AI) technologies that accelerate the pace of engineering innovation."
@@ -31,7 +31,7 @@ subtitle = "Creating artificial intelligence (AI) technologies that accelerate t
   # Text color (true=light or false=dark).
   text_color_light = false
 
----
++++
 
 We are an interdisciplinary research group at the [School of Mechanical Engineering](http://www.purdue.edu/me),
 [Purdue University](http://www.purdue.edu) led by [Prof. Ilias Bilionis](/authors/ebilionis).
