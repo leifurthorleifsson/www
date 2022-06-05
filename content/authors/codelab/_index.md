@@ -80,7 +80,7 @@ Our research focuses on advancing fundamental computational methods for optimal 
 Current applicatons include aerodynamic modeling and shape optimization, microwave device design optimization, uq of nondestructive testing systems, satellite system program cost modeling and analysis, and food-water-energy system modeling. 
 
 We are grateful for the support from the following organizations:
-'{{< gallery
-"/img/NSF_Logo.png"
-"/img/DOE_Seal.jpg"
-}}'
+{{< gallery >}}
+   {{< figure img="/img/NSF_Logo.png" >}}
+   {{< figure img="/img/DOE_Seal.jpg" >}}
+{{< gallery >}}
