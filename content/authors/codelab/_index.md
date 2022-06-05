@@ -77,17 +77,17 @@ Welcome to the COmputational DEsign Laboratory (CODE Lab) at the [School of Aero
 
 Our research focuses on advancing fundamental computational methods for optimal design and uncertainty quantification of aerospace systems. 
 
-Current applicatons include aerodynamic modeling and shape optimization, microwave device design optimization, uq of nondestructive testing systems, satellite system program cost modeling and analysis, and food-water-energy system modeling. 
+Current applicatons include aerodynamic design optimization, microwave design optimization, nondestructive testing systems, satellite systems, and food-water-energy systems. 
 
 We are grateful for the support from the following organizations:
-<div class="row">
-  <div class="column">
-    <img src="/img/purduelogo.png" alt="Purdue" style="width:100%">
+  <div class="row">
+    <div class="column">
+      <img src="/img/purduelogo.png" alt="Purdue" style="width:25%">
+    </div>
+    <div class="column">
+      <img src="/img/NSF_Logo.png" alt="NSF" style="width:100%" >
+    </div>
+    <div class="column">
+      <img src="/img/DOE_Seal.jpg" alt="DOE" style="width:100%">
+    </div>
   </div>
-  <div class="column">
-    <img src="/img/NSF_Logo.png" alt="NSF" style="width:100%" >
-  </div>
-  <div class="column">
-    <img src="/img/DOE_Seal.jpg" alt="DOE" style="width:100%">
-  </div>
-</div>
