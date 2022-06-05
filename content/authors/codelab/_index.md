@@ -73,4 +73,10 @@ highlight_name: true
 ---
 
 Welcome to the Computational Design Laboratory at the [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE),
-[Purdue University](https://www.purdue.edu) led by [Dr. Leifur Thor Leifsson](/authors/leifur). Our research focuses on advancing fundamental computational methods for optimal design and uncertainty quantification of aerospace systems.
+[Purdue University](https://www.purdue.edu) led by [Prof. Leifur Thor Leifsson](/authors/leifur).
+
+Our research focuses on advancing fundamental computational methods for optimal design and uncertainty quantification of aerospace systems. 
+
+Current applicatons include aerodynamic shape optimization, microwave device optimization, nondestructive testing uncertainty quantification, satellite system program cost analysis, and food-water-energy system modeling. 
+
+We are grateful for the support from the following organizations:
