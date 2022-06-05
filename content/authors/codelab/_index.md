@@ -82,12 +82,15 @@ Current applicatons include aerodynamic design optimization, microwave design op
 We are grateful for the support from the following organizations:
   <div class="row">
     <div class="column">
-      <img src="/img/purduelogo.png" alt="Purdue" style="width:100%">
+      <img src="" alt="Purdue" style="width:100%">
     </div>
     <div class="column">
-      <img src="/img/NSF_Logo.png" alt="NSF" style="width:100%" >
+      <img src="/img/NSF_Logo.png" alt="NSF" style="width:100%">
     </div>
     <div class="column">
       <img src="/img/DOE_Seal.jpg" alt="DOE" style="width:100%">
+    </div>
+    <div>
+      <img src="/img/purduelogo.png" alt="Purdue" style="width:100%">
     </div>
   </div>
