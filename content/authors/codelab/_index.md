@@ -81,4 +81,5 @@ Current applicatons include aerodynamic modeling and shape optimization, microwa
 
 We are grateful for the support from the following organizations:
 
-![Sponsors](/img/sponsors.png)
+![NSF](/img/NSF_Logo.png)
+![DOE](/img/DOE_Seal.jpg)
