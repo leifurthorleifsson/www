@@ -77,6 +77,8 @@ Welcome to the Computational Design Laboratory at the [School of Aeronautics and
 
 Our research focuses on advancing fundamental computational methods for optimal design and uncertainty quantification of aerospace systems. 
 
-Current applicatons include aerodynamic shape optimization, microwave device optimization, nondestructive testing uncertainty quantification, satellite system program cost analysis, and food-water-energy system modeling. 
+Current applicatons include aerodynamic modeling and shape optimization, microwave device design optimization, uq of nondestructive testing systems, satellite system program cost modeling and analysis, and food-water-energy system modeling. 
 
 We are grateful for the support from the following organizations:
+
+![Sponsors](/img/sponsors.png)
