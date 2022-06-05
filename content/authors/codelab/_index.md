@@ -6,15 +6,17 @@ title: Computational Design Laboratory
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+#role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: School of Aeronautics and Astronautics
+    url: https://engineering.purdue.edu/AAE
   - name: Purdue University
     url: https://www.purdue.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 #interests:
@@ -51,7 +53,7 @@ social:
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ComputationalDesignLab
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/
