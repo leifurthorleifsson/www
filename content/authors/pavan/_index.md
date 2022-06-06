@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Pavankumar Koratikere
+title: Pavankumar Koratikere
 
 # Username (this should match the folder name)
 authors:

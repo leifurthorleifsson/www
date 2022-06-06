@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Tarith Samson
+title: Tarith Samson
 
 # Username (this should match the folder name)
 authors:
