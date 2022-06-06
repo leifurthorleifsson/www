@@ -1,13 +1,13 @@
 ---
 # Display name
-name: Pavankumar Koratikere
+name: Siddhesh Naidu
 
 # Username (this should match the folder name)
 authors:
-- pavan
+- siddhesh
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: MS student
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course:
-    institution:
-    year: 
+  - course: BS in Aeronautics and Astronautics
+    institution: Purudue University
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:pkoratik@purdue.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:naidu3@purdue.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: linkedin
 #  icon_pack: fab
 #  link: 
@@ -56,7 +56,7 @@ social:
 #  link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "pkoratik@purdue.edu"
+email: "naidu3@purdue.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  

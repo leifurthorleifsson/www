@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Pavankumar Koratikere
+name: Tarith Samson
 
 # Username (this should match the folder name)
 authors:
-- pavan
+- tarith
 
 # Is this the primary user of the site?
 superuser: false
@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:pkoratik@purdue.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:tsamson@purdue.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: linkedin
 #  icon_pack: fab
 #  link: 
@@ -56,7 +56,7 @@ social:
 #  link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "pkoratik@purdue.edu"
+email: "tsamson@purdue.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
