@@ -70,4 +70,4 @@ user_groups:
 - Principal Investigator
 ---
 
-Leifur received his undergraduate and masters degrees in mechanical engineering from the University of Iceland, Reykjavik, Iceland, in 1999 and 2000, respectively, and a PhD in aerospace engineering from Virginia Tech, Blacksburg, VA, in 2006. He joined the School of Aeronautics and Astronautics at Purdue University in August, 2021, as an Associate Professor. Prior to that, he held positions at Iowa State University, Ames, IA, and Reykjavik University, Reykjavik, Iceland, as well as in industry, incliuding Airbus UK Ltd. in Bristol, England.
+Leifur received his undergraduate and masters degrees in mechanical engineering from the University of Iceland, Reykjavik, Iceland, in 1999 and 2000, respectively, and a PhD in aerospace engineering from Virginia Tech, Blacksburg, VA, in 2006. He joined the School of Aeronautics and Astronautics at Purdue University in August, 2021, as an Associate Professor. Prior to that, he held positions at Iowa State University, Ames, IA, and Reykjavik University, Reykjavik, Iceland. Additionalluy, he worked in industry for several years, including at Airbus UK Ltd., Bristol, England.
