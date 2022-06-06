@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: leifur@purdue.ediu
-  phone: (765) 494-3311
+  email: leifur@purdue.edu
+  phone: (765) 494 3311
   address:
     street: 701 W Stadium Ave 
     city: West Lafayette
