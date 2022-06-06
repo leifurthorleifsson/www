@@ -34,9 +34,9 @@ content:
     postcode: '47907-2045'
     country: United States
     country_code: US
-  #coordinates:
-  #  latitude: ''
-  #  longitude: ''
+  coordinates:
+    latitude: '40.45042654050383'
+    longitude: '-86.91644140862614'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
