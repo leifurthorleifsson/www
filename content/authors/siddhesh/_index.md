@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: BS in Aeronautics and Astronautics
-    institution: Purudue University
+    institution: Purdue University
     year: 2022
 
 # Social/Academic Networking

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Leifur Thor Leifsson
+title: Leifur Thor Leifsson
 
 # Username (this should match the folder name)
 authors:
