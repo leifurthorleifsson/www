@@ -27,9 +27,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
+    - name: Aerodynamic shape optimization
+      tag: ASO
+    - name: Surrogate modeling
       tag: Demo
 
 design:
