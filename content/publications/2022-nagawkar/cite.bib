@@ -1,9 +1,13 @@
-@article{nagawkar2022,
-  title={Multifidelity aerodynamic flow field prediction using random forest-based machine learning},
-  author={Nagawkar, J. and Leifsson, L.},
-  journal={Aerospace Science and Technology}
-  number={107449},
-  volume={123},
-  year={2022},
-  doi={10.1016/j.ast.2022.107449}
+@article{NAGAWKAR2022107449,
+title = {Multifidelity aerodynamic flow field prediction using random forest-based machine learning},
+journal = {Aerospace Science and Technology},
+volume = {123},
+pages = {107449},
+year = {2022},
+issn = {1270-9638},
+doi = {https://doi.org/10.1016/j.ast.2022.107449},
+url = {https://www.sciencedirect.com/science/article/pii/S1270963822001237},
+author = {Jethro Nagawkar and Leifur Leifsson},
+keywords = {Flow field prediction, Random forest, Machine learning, Multifidelity modeling, Surrogate modeling},
+abstract = {In this paper, a novel random forest (RF)-based multifidelity machine learning (ML) algorithm to predict the high-fidelity Reynolds-averaged Navier-Stokes (RANS) flow field is proposed. The RF ML algorithm is used to increase the fidelity of a low-fidelity potential flow field. Three cases are studied, the first two consist of a flow past a backward-facing step, and the third, a subsonic flow around an airfoil. In the first case, the data is generated using ten different inlet velocities, in the second using six different step heights, and in the third using 20 different airfoil shapes parameterized using B-spline curves. Input parameters to RF are case dependent. For the first case, the x and y cell-center locations and the corresponding x and y potential flow velocities, along with the specified inlet velocity, are used. For the second, the cell-center values are nondimensionalized using the step height, and the step height is used in place of the inlet velocity. The remaining two input features used are the same as in the previous case. For the third case, the potential flow stream function and velocity potential along with the B-spline control point values are used as input variables. The outputs of the RF algorithm are the same for all the cases and include the RANS velocities, pressures, and turbulent viscosities. The results in this study are compared to those generated using the tensorFlowFoam (TFF) and from directly solving the RANS equations. To quantify the errors, the absolute error and relative L2 norm error metrics are used. The results show that for the first two cases, RF consistently has two to 30 times lower relative L2 norm compared to TFF, with the only exception being the turbulent viscosities for the second case. For the third case, RF is better at predicting the pressure and skin friction coefficients for the RAE 2822 airfoil compared to the NACA 0012 airfoil. The relative L2 norm error is 1.67 and 1.19 times lower for the pressure and skin friction coefficients, respectively.}
 }
