@@ -1,6 +1,6 @@
 ---
 title: "Multifidelity Modeling Similarity Conditions for Airfoil Dynamic Stall Prediction with Manifold Mapping"
-date: "2022"
+date: "2022-04-01"
 authors: ["V. Raul", "L. Leifsson"]
 publication_types: ["2"]
 publication: "*Engineering Computations*"
