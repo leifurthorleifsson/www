@@ -73,5 +73,5 @@ highlight_name: true
 ---
 
 Welcome to the Computational Design Laboratory (CODE Lab) at the [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE),
-[Purdue University](https://www.purdue.edu) led by [Prof. Leifur Thor Leifsson](/authors/leifur). Our research focuses on advancing fundamental computational methods for optimal design and uncertainty quantification of aerospace systems. Current applicatons include aerodynamic design optimization, microwave design optimization, nondestructive testing systems, satellite systems, and food-water-energy systems. We are grateful for the support from the following organizations:
+[Purdue University](https://www.purdue.edu), led by [Prof. Leifur Thor Leifsson](/authors/leifur). Our research focuses on advancing fundamental computational methods for optimal design and uncertainty quantification of aerospace systems. Current applicatons include aerodynamic design optimization, microwave design optimization, nondestructive testing systems, satellite systems, and food-water-energy systems. We are grateful for the support from the following organizations:
 ![NSF, DOE, Purdue](/img/sponsors.png)
