@@ -23,6 +23,7 @@ bio:
 interests:
 - Surrogate-based modeling and optimization
 - Multidisciplinary design optimization
+- Uncertainty quantification
 - Multifidelity methods
 
 education:
