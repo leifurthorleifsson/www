@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: MS student
+role: MSAA Student
 
 # Organizations/Affiliations
 organizations:
-- name: Purdue University
-  url: "https://www.purdue.edu"
+- name: School of Aeronautics & Astronautics
+  url: "https://engineering.purdue.edu/AAE"
 
 # Short bio (displayed in user profile at end of posts)
 bio:

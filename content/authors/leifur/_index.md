@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Aeronautics and Astronautics
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Purdue University
-  url: "https://www.purdue.edu"
+- name: School of Aeronautics & Astronautics
+  url: "https://engineering.purdue.edu/AAE"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -48,10 +48,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: linkedin
 #  icon_pack: fab
-#  link: 
+#  link:
 #- icon: twitter
 #  icon_pack: fab
-#  link: 
+#  link:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=j3djHJUAAAAJ&hl=en
@@ -60,7 +60,7 @@ social:
   link: https://github.com/leifurthorleifsson
 #- icon: cv
 #  icon_pack: ai
-#  link: 
+#  link:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "leifur@purdue.edu"

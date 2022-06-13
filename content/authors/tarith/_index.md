@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: MS student
+role: MSAA Student
 
 # Organizations/Affiliations
 organizations:
-- name: Purdue University
-  url: "https://www.purdue.edu"
+- name: School of Aeronautics & Astronautics
+  url: "https://engineering.purdue.edu/AAE"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -29,7 +29,7 @@ education:
   courses:
   - course:
     institution:
-    year: 
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -41,10 +41,10 @@ social:
   link: 'mailto:tsamson@purdue.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: linkedin
 #  icon_pack: fab
-#  link: 
+#  link:
 #- icon: twitter
 #  icon_pack: fab
-#  link: 
+#  link:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=j3djHJUAAAAJ&hl=en
@@ -53,7 +53,7 @@ social:
 #  link: https://github.com/leifurthorleifsson
 #- icon: cv
 #  icon_pack: ai
-#  link: 
+#  link:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "tsamson@purdue.edu"
