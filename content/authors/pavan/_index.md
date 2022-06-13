@@ -68,4 +68,4 @@ email: "pkoratik@purdue.edu"
 user_groups:
 - Graduate Students
 ---
-Pavan did his undergraduate studies in mechanical engineering from National Institute of Technology Karnataka, Surathkal, India. He worked briefly for Boeing, India, in their IT&DA department before joining Purdue University. He is pursuing a master’s degree in the School of Aeronautics and Astronautics under the guidance of Prof. Leifur Leifsson.
+Pavan did his undergraduate studies in mechanical engineering from the National Institute of Technology Karnataka, Surathkal, India. He worked briefly for Boeing, India, in their IT&DA department before joining Purdue University. He is pursuing a master’s degree in the School of Aeronautics and Astronautics under the guidance of Prof. Leifur Leifsson.
