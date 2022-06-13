@@ -21,15 +21,20 @@ organizations:
 bio:
 
 interests:
-- Surrogate-based modeling and optimization
 - Multidisciplinary design optimization
-- Machine learning
+- Surrogate modeling, machine learning
+- Uncertainty quantification
+- Aircraft design
 
 education:
   courses:
-  - course:
-    institution:
-    year: 
+  - course: Master of Science in Aeronautics & Astronautics
+    institution: Purdue University
+    year: 2023 (expected)
+  - course: Bachelor of Technology in Mechanical Engineering
+    institution: National Institute of Technology Karnataka, India
+    year: 2020
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -39,21 +44,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:pkoratik@purdue.edu'  # For a direct email link, use "mailto:test@example.org".
-#- icon: linkedin
-#  icon_pack: fab
-#  link: 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/kcpkumar
 #- icon: twitter
 #  icon_pack: fab
-#  link: 
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=j3djHJUAAAAJ&hl=en
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/leifurthorleifsson
+#  link:
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=zYlPD7oAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/pkck28
 #- icon: cv
 #  icon_pack: ai
-#  link: 
+#  link:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "pkoratik@purdue.edu"
@@ -63,4 +68,4 @@ email: "pkoratik@purdue.edu"
 user_groups:
 - Graduate Students
 ---
-Some text here.
+Pavan did his undergraduate studies in mechanical engineering from National Institute of Technology Karnataka, Surathkal, India. He worked briefly for Boeing, India, in their IT&DA department before joining Purdue University. He is pursuing a master’s degree in the School of Aeronautics and Astronautics under the guidance of Prof. Leifur Leifsson.
