@@ -21,15 +21,18 @@ organizations:
 bio:
 
 interests:
-- Surrogate-based modeling and optimization
 - Multidisciplinary design optimization
 - Machine learning
+- Urban air mobility
 
 education:
   courses:
-  - course:
-    institution:
-    year:
+  - course: Master of Science in Aeronautics & Astronautics
+    institution: Purdue University
+    year: 2023 (expected)
+  - course: Bachelor of Science in Aerospace Engineering
+    institution: Iowa State University
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -63,4 +66,4 @@ email: "tsamson@purdue.edu"
 user_groups:
 - Graduate Students
 ---
-Some text here.
+Tarith received his Bachelor's of Science in Aerospace Engineering from Iowa State University in 2021. In August 2021, he joined master's program in Aeronautics & Astronautics at Purdue University.
