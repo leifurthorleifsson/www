@@ -66,4 +66,4 @@ email: "tsamson@purdue.edu"
 user_groups:
 - Graduate Students
 ---
-Tarith received his Bachelor's of Science in Aerospace Engineering from Iowa State University in 2021. In August 2021, he joined master's program in Aeronautics & Astronautics at Purdue University.
+Tarith received his Bachelor's of Science in Aerospace Engineering from Iowa State University in 2021. In August 2021, he joined the master's program in Aeronautics & Astronautics at Purdue University.
