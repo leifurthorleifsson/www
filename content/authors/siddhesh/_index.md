@@ -27,7 +27,10 @@ interests:
 
 education:
   courses:
-  - course: BS in Aeronautics and Astronautics
+  - course: Master of Science in Aeronautics and Astronautics
+    institution: Purdue University
+    year: 2024 (expected)
+  - course: Bachelor of Science in Aeronautics and Astronautics
     institution: Purdue University
     year: 2022
 
@@ -63,4 +66,3 @@ email: "naidu3@purdue.edu"
 user_groups:
 - Graduate Students
 ---
-Some text here.
