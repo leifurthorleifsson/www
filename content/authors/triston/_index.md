@@ -21,15 +21,18 @@ organizations:
 bio:
 
 interests:
+- Aerodynamic design
 - Surrogate-based modeling and optimization
-- Multidisciplinary design optimization
-- Machine learning
+- Uncertainty quantification
 
 education:
   courses:
-  - course:
-    institution:
-    year:
+  - course: Master of Science in Aeronautics & Astronautics
+    institution: Purdue University
+    year: 2023 (expected)
+  - course: B.S.E. in Aerospace Engineering
+    institution: Arizona State University
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -63,4 +66,4 @@ email: "tkoslosk@purdue.edu"
 user_groups:
 - Graduate Students
 ---
-Some text here.
+Triston obtained his undergraduate degree in Aerospace Engineering at Arizona State University in 2020. The major focuses of his studies there were aerodynamic design and multidisciplinary design optimization. He is currently continuing his schooling under the direction of Leifur Leifsson at Purdue University.
