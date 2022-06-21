@@ -24,18 +24,19 @@ interests:
 - Surrogate-based modeling and optimization
 - Machine learning
 - Computational fluid dynamics
+- Turbomachinery
 
 education:
   courses:
   - course: Doctor of Philosophy in Aerospace Engineering
     institution: Iowa State University
     year: 2022 (expected)
-  - course: Master of Science in
-    institution: xxx
-    year: 2020
-  - course: Bachelor of Science
-    institution: India
-    year: 2020
+  - course: Master of Science in Applied Mechanics
+    institution: Chalmers University of Technology, Sweden
+    year: 2016
+  - course: Bachelor of Technology in Mechanical Engineering
+    institution: Vellore Institute of Technology, India
+    year: 2014
 
 
 # Social/Academic Networking
@@ -70,4 +71,4 @@ email: "jethro@iastate.edu"
 user_groups:
 - Graduate Students
 ---
-Jethro received his undergraduate degree in mechanical engineering from the university in India, and a master of science degree in  from . He is pursuing doctor of philosophy in aerospace engineering at Iowa State University under the guidance of Prof. Leifsson.
+Jethro is pursuing a Ph.D. in the Department of Aerospace Engineering at Iowa State University under the guidance of Dr. Leifur Leifsson. He received a Master's degree in Applied Mechanics from the Chalmers University of Technology in Sweden and a Bachelor's degree in Mechanical Engineering from the Vellore Institute of Technology in India. His research is focused on the development and application of multifidelity machine learning models for flow field prediction and aerodynamic shape optimization. He has also worked on problems involving global sensitivity analysis as well as uncertainty quantification and propagation.
