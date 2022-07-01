@@ -21,16 +21,17 @@ organizations:
 bio:
 
 interests:
+- Space systems design
+- Multidisciplinary design analysis and optimization
+- Uncertainty quantification
 - Surrogate-based modeling and optimization
-- Multidisciplinary design optimization
-- Machine learning
 
 education:
   courses:
   - course: Master of Science in Aeronautics and Astronautics
     institution: Purdue University
     year: 2024 (expected)
-  - course: Bachelor of Science in Aeronautics and Astronautics
+  - course: Bachelor of Science in Aeronautical and Astronautical Engineering
     institution: Purdue University
     year: 2022
 
@@ -51,9 +52,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=j3djHJUAAAAJ&hl=en
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/leifurthorleifsson
+- icon: github
+  icon_pack: fab
+  link: https://github.com/naidu01
 #- icon: cv
 #  icon_pack: ai
 #  link:
@@ -66,3 +67,4 @@ email: "naidu3@purdue.edu"
 user_groups:
 - Graduate Students
 ---
+Siddhesh is pursuing a Masters's in Aeronautics and Astronautics at Purdue University under the guidance of Dr. Leifur Leifsson. He received a Bachelor’s degree in Aeronautical and Astronautical Engineering, from Purdue University in 2022. He has worked on student payloads for Blue Origin and Zero Gravity Corporation. His research is focused on the uncertainty quantification of multidisciplinary space systems.
