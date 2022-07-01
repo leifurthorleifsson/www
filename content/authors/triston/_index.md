@@ -51,9 +51,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=j3djHJUAAAAJ&hl=en
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/leifurthorleifsson
+- icon: github
+  icon_pack: fab
+  link: https://github.com/tkoslosk
 #- icon: cv
 #  icon_pack: ai
 #  link:
