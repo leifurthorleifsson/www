@@ -24,6 +24,8 @@ interests:
 - Cost modeling
 - Global sensitivity analysis
 - Bayesian inversion
+- Large-scale complex engineered systems
+- Systems engineering
 
 education:
   courses:
@@ -33,9 +35,9 @@ education:
   - course: Master of Science in Aerospace Engineering
     institution: Iowa State University
     year: 2018
-  - course: Bachelor of Science in Aerospace Engineering
-    institution: Iowa State University
-    year: 2016
+  - course: Bachelor of Engineering in Mechatronics Engineering
+    institution: Anna University, India
+    year: 2012
 
 
 # Social/Academic Networking
@@ -70,4 +72,4 @@ email: "nazareen@iastate.edu"
 user_groups:
 - Graduate Students
 ---
-Nazareen received her undergraduate degree in mechanical engineering from the university in India, and a master of science degree in aerospace engineering from Iowa State University. She is pursuing doctor of philosophy in aerospace engineering at Iowa State University under the guidance of Prof. Leifsson.
+Nazareen received her undergraduate degree in mechatronics engineering from Anna University in India, and a Master of Science degree in aerospace engineering from Iowa State University. She is pursuing her Doctor of Philosophy in aerospace engineering at Iowa State University under the guidance of Prof. Leifsson. Her research is focused on finding parameters impacting the acquisition cost of complex systems using model-based systems engineering. Her research also involves Bayesian parameter estimation and uncertainty quantification.
